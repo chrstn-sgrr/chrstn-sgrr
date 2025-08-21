@@ -1,10 +1,10 @@
 <h1 align="center">Hi! I'm Christian 👋</h1>
 
-<p align="center">🇵🇭 I'm a 21 year old Computer Science Student @ Asia Pacific College. </p>
+<p align="center">I'm a 21 year old Computer Science Student @ Asia Pacific College. </p>
 
 ---
 
-## About Me
+## 🇵🇭 About Me
 
 *   💻 Currently diving deep into learning languages and creating projects to build fundamentals.
 *   📚 Always learning something new! Right now, I'm developing an Hypertropy Tracker App and learning a bit of Java from class.
