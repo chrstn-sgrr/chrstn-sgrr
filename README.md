@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Christian 👋</h1>
 
-<p align="center">I'm a 21 year old Computer Science Student @ Asia Pacific College. </p>
+<p align="center">🇵🇭 I'm a 21 year old Computer Science Student @ Asia Pacific College. </p>
 
 ---
 
