@@ -6,8 +6,8 @@
 
 ## 🇵🇭 About Me
 
-*   💻 Currently diving deep into learning languages and creating projects to build fundamentals.
-*   📚 Always learning something new! Right now, I'm developing an Hypertropy Tracker App and learning a bit of Java from class.
+*   💻 Currently learning languages and creating projects to build fundamentals.
+*   📚 Always learning something new! Right now, I'm developing an Hypertrohpy Tracker App and learning a bit of Java from class.
 *   🧠 My philosophy as a developer: Just keep learning and build stuff. Specifically build stuff that I would like to use.
 *   🏋️‍♂️ Off the keyboard, you'll find me in the gym or playing osu!   
 ---
