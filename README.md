@@ -14,4 +14,4 @@
 
 ## 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=neovim,python,go,react,vue,vite,aws,java,spring,git,linux,mysql,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=neovim,python,go,react,vue,vite,aws,java,spring,git,linux,postgresql,mysql,supabase&theme=dark" />
