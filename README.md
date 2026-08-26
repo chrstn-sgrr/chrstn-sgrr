@@ -5,7 +5,7 @@
 
 ---
 
-## 🇵🇭 About Me
+## About Me
 
 *   💻 Currently learning languages and creating projects to build fundamentals, with an interest on Cloud, Backend Development, and AI Engineering
 *   📚 Always learning something new! Right now, learning Go.
